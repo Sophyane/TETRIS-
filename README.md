@@ -7,7 +7,8 @@ LogBook:
 - Creating a TETRIS game using HTML, CSS, javaScript, jQuery.
 	In this code, we will use the camelCase Convention.
   - THEME - AURORA BOREALIS.
--Drawing the project model on a free page ( if better idea, Could have some interface updates)
+- Drawing the project model on a free page ( if better idea, Could have some interface updates)
+- Documentation
 WORK CORD:
 Creating work pages on an organised project called Tetris.
 - Starting by creating HTML, using Canvas to draw.
