@@ -8,6 +8,7 @@ and open the template in the editor.
     Author     : oz
 */
 
+/*CSS CANVAS BOARD*/
 #tetris{
     background-color: black;
     color:black;
@@ -16,6 +17,7 @@ and open the template in the editor.
     
 }
 
+/*CSS NAMING SITE*/
 .h1 {
     position: absolute;
     color:#b5b5a8;
@@ -23,6 +25,8 @@ and open the template in the editor.
     margin-right: 33em;
     font-family: 'Open Sans', sans-serif;
 }
+
+/* CSS GAME AREA*/
 .canvas{
     background-color: brown;
     color: brown;
@@ -37,6 +41,7 @@ and open the template in the editor.
     
 }
 
+/*CSS BACKGROUND*/
 #cover {
     position: absolute;
     z-index: -1;
@@ -46,9 +51,11 @@ and open the template in the editor.
     margin-top: -8px;
 }
 
+/* CSS SCORE */
 .score{
+    text-align:center;
     position: absolute;
-    height: 22%;
+    height: 30%;
     width: 25%;
     border-radius: 10px 10px 10px 10px;
     border-radius: 10px 10px 10px 10px;
@@ -56,11 +63,15 @@ and open the template in the editor.
     border: 10px solid #668a5f;
     font-family: 'Open Sans', sans-serif;
     color: #668a5f;
-    margin-right:   57em;
-    margin-top: 21em;
+    right:auto;
+    left:0; 
+    margin-top:auto;
     display: inline-block;
+    font-size: 33px;
     
 }
+
+/* CSS HEURE */
 
 #time{
     width : 300px ; 
